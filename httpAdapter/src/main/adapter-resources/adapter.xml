@@ -23,7 +23,6 @@
 		</connectionPolicy>
 	</connectivity>
 
-	<procedure name="getFeed"/>
 	<procedure name="unprotected" secured="false"/>
 
 </mfp:adapter>
